@@ -1,7 +1,0 @@
-﻿  seed.c
-C:\Users\skh31\source\repos\SEED_32bit_ver\SEED_32bit_ver\seed.c(296,10): warning C4013: 'srand' undefined; assuming extern returning int
-C:\Users\skh31\source\repos\SEED_32bit_ver\SEED_32bit_ver\seed.c(296,15): warning C4013: 'time' undefined; assuming extern returning int
-C:\Users\skh31\source\repos\SEED_32bit_ver\SEED_32bit_ver\seed.c(301,29): warning C4013: 'rand' undefined; assuming extern returning int
-C:\Users\skh31\source\repos\SEED_32bit_ver\SEED_32bit_ver\seed.c(314,32): warning C4047: 'function': 'const uint32_t (*)[2]' differs in levels of indirection from 'uint32_t [4]'
-C:\Users\skh31\source\repos\SEED_32bit_ver\SEED_32bit_ver\seed.c(314,29): warning C4024: 'SEED_ENC': different types for formal and actual parameter 2
-  SEED_32bit_ver.vcxproj -> C:\Users\skh31\source\repos\SEED_32bit_ver\Debug\SEED_32bit_ver.exe
